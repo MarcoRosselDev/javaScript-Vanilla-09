@@ -13,4 +13,7 @@ btn.addEventListener('click', function() {
         btn.classList.remove('slide');
         video.play();
     }
+    // no se usa toggle por que se usa el metodo pausa y play del video
 });
+
+// preloader
